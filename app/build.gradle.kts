@@ -26,8 +26,6 @@ android {
     dataBinding = false
   }
 
-  repositories {
-    flatDir { dirs("libs") }
   }
 }
 
