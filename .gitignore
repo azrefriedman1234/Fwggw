@@ -22,3 +22,4 @@ Thumbs.db
 
 # DO NOT COMMIT local AARs
 app/libs/*.aar
+gradle-8.7/
