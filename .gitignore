@@ -1,0 +1,24 @@
+# Gradle / builds
+.gradle/
+**/build/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NEVER commit Termux/GH config or tokens
+.config/
+
+# DO NOT COMMIT local AARs
+app/libs/*.aar
