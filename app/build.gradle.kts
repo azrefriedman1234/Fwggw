@@ -26,7 +26,6 @@ android {
     dataBinding = false
   }
 
-  }
 }
 
 dependencies {
